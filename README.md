@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on JAVASCRIPT,TYPESCRIPT.
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Web Desiging
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on JAVASCRIPT,TYPESCRIPT.
+- 🌱 I’m currently learning about Cyber Security.
 - 👯 I’m looking to collaborate for Web Desiging
 - 📫 E-Mail: divyanshuvarshney855@gmail.com
 <br/><br/>
