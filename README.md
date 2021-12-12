@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyanshu-95&layout=compact,issues&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0124hitesh&show_icons=true&theme=tokyonight)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-95&show_icons=true&theme=tokyonight)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-95&count_private=true&theme=tokyonight)<br/>
 
 
