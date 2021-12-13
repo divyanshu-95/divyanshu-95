@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate for Web Desiging
 - 📫 E-Mail: divyanshuvarshney855@gmail.com
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-95&theme=tokyonight)<br/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-95&theme=tokyonight)<br/> -->
 ## Git Status
 
 ![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyanshu-95&layout=compact,issues&theme=tokyonight)
